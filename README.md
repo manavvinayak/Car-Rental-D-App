@@ -1,4 +1,5 @@
 __Features__:
+
 *Decentralized Car Listings*: Car owners can register their vehicles on the platform, making them available for rent.
 *Smart Contract Automation*: The rental process, including payments and contract enforcement, is managed by smart contracts, ensuring security and reducing the need for intermediaries.
 *User-Friendly Interface*: A seamless interface for users to search for available cars, select rental dates, and complete transactions.
